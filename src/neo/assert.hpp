@@ -8,6 +8,7 @@
 #include <iterator>
 #include <ostream>
 #include <string_view>
+#include <utility>
 
 #if !defined(NEO_ASSERT_THROWS)
 #define NEO_ASSERT_THROWS 0
